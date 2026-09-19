@@ -16,7 +16,7 @@ flake8==6.0.0
     # via -r requirements.in
 isort==5.11.2
     # via -r requirements.in
-lxml==4.9.2
+lxml==6.1.0
     # via feedgen
 mccabe==0.7.0
     # via flake8
